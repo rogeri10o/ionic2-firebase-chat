@@ -1,6 +1,6 @@
 {
-  "name": "Ionic Chat",
-  "short_name": "I Chat",
+  "name": "Dynamic Chat",
+  "short_name": "Chat",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [{
