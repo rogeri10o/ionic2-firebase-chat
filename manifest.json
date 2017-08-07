@@ -1,0 +1,13 @@
+{
+  "name": "Ionic Chat",
+  "short_name": "I Chat",
+  "start_url": "index.html",
+  "display": "standalone",
+  "icons": [{
+    "src": "assets/images/logo.jpg",
+    "sizes": "512x512",
+    "type": "image/jpg"
+  }],
+  "background_color": "#1a1aff",
+  "theme_color": "#1a1aff"
+}
